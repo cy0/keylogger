@@ -69,6 +69,6 @@ Press ESC to exit
 --interval       # Email interval in seconds (default: 600)
 
 6. Cleanup:
-# Remove all generated files:
+
 del keystrokes.log keystrokes.enc keylogger_config.key
 
