@@ -72,3 +72,4 @@ Press ESC to exit
 
 del keystrokes.log keystrokes.enc keylogger_config.key
 
+This environment is for educational purposes only. Do NOT deploy to the public internet or use against systems you do not own or have permission to test.
